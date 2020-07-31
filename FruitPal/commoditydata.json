@@ -1,0 +1,32 @@
+﻿[
+  {
+    "COUNTRY": "MX",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "32.00",
+    "VARIABLE_OVERHEAD": "1.24"
+  },
+  {
+    "COUNTRY": "BR",
+    "COMMODITY": "mango",
+    "FIXED_OVERHEAD": "20.00",
+    "VARIABLE_OVERHEAD": "1.42"
+  },
+  {
+    "COUNTRY": "US",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "50.00",
+    "VARIABLE_OVERHEAD": "0.55"
+  },
+  {
+    "COUNTRY": "US",
+    "COMMODITY": "orange",
+    "FIXED_OVERHEAD": "22.00",
+    "VARIABLE_OVERHEAD": "2.01"
+  },
+  {
+    "COUNTRY": "MX",
+    "COMMODITY": "pineapple",
+    "FIXED_OVERHEAD": "32.00",
+    "VARIABLE_OVERHEAD": "1.59"
+  }
+]
